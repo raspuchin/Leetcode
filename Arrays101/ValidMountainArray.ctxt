@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=ValidMountainArray
+comment1.params=arr
+comment1.target=boolean\ validMountainArray(int[])
+numComments=2

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=RemoveElement
+comment1.params=nums\ val
+comment1.target=int\ removeElement(int[],\ int)
+numComments=2

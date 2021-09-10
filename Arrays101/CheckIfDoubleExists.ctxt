@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=CheckIfDoubleExists
+comment1.params=arr
+comment1.target=boolean\ checkIfExist(int[])
+numComments=2

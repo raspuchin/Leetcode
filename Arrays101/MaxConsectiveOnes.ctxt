@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=MaxConsectiveOnes
+comment1.params=nums
+comment1.target=int\ findMaxConsecutiveOnes(int[])
+numComments=2

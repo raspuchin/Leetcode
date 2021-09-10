@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=HeightChecker
+comment1.params=heights
+comment1.target=int\ heightChecker(int[])
+numComments=2
